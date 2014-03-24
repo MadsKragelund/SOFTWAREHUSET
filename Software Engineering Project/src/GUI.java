@@ -2,9 +2,7 @@
 public class GUI {
 
 	public GUI() {
-		//VIRK NU..
-		//pik
-		//sut mig
+		//DET VIIIIRRRKEEERRR :3
 	}
 	
 }
